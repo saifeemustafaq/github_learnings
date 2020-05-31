@@ -1,3 +1,6 @@
+Import the library  
+`import time`
+
 At the beginning of the program type  
 `start = time.time()`
 

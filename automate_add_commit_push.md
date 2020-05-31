@@ -16,13 +16,15 @@
    `git add .`  
    `git commit -m "message"`  
    `git push origin master`  
-
+   
+   or you can replace `"message"` with `%1` so that when you type `push.bat "message"`, whatever is written after the `push.bat` will replace the `%1`
+   
 3. save the file
 
 ## If you are using ***cmd***
 navigate to the directory  
-in the command line type `push.bat`
+in the command line type `push.bat` or `push.bat "message"`
 
 ## If you are using ***Powershell or VSCode Terminal***
 navigate to the directory
-in the command line type `.\push.bat`
+in the command line type `.\push.bat` or `.\push.bat "message"`

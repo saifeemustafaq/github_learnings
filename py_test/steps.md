@@ -12,4 +12,4 @@ To install pytest, run pip install -U pytest in your terminal. You can see more 
 
 #### Your tests won't be stopped by failed assert statements, but it will stop if you have syntax errors.
 
-![Py_test](master/py_test.png)
+![Py_test](https://github.com/saifeemustafaq/github_learnings/blob/master/py_test/py_test.png)
